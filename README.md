@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emperor111&label=Profile%20views&color=0e75b6&style=flat" alt="emperor111" /> </p>
 
+<img src="https://media.tenor.com/ITc1hNBSH_wAAAAC/coding-typing.gif">
 - 🔭 I’m currently working on **Portfolio Website**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**

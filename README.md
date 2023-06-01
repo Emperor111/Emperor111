@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/ITc1hNBSH_wAAAAC/coding-typing.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emperor111&label=Profile%20views&color=0e75b6&style=flat" alt="emperor111" /> </p>
+//<p align="left"> <img src="https://komarev.com/ghpvc/?username=emperor111&label=Profile%20views&color=0e75b6&style=flat" alt="emperor111" /> </p>//
 
 - 🔭 I’m currently working on **Portfolio Website**
 

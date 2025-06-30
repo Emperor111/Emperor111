@@ -1,6 +1,6 @@
-# [Your Name] - KDB+/q Database Engineer Portfolio
+# ESHAN TIWARI - KDB+/q Database Engineer Portfolio
 
-[Link to LinkedIn] | [Link to Email]
+ | ESHANTIWARI111@gmail.com
 
 ## About Me
 I am a data engineer specializing in the kdb+/q time-series database for high-frequency financial data. My expertise lies in designing, building, and optimizing data-intensive systems for real-time analytics, market data capture, and algorithmic trading support. I am proficient in idiomatic q, system architecture, and performance tuning.

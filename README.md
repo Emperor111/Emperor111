@@ -1,34 +1,43 @@
-# ESHAN TIWARI - KDB+/q Database Engineer Portfolio
-
- | ESHANTIWARI111@gmail.com
-
-## About Me
-I am a data engineer specializing in the kdb+/q time-series database for high-frequency financial data. My expertise lies in designing, building, and optimizing data-intensive systems for real-time analytics, market data capture, and algorithmic trading support. I am proficient in idiomatic q, system architecture, and performance tuning.
+# ESHAN TIWARI
+**Technical Business Analyst | Trading Technology & Data Architecture**  
+📧 eshantiwari111@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/eshantiwari) | 📊 [Power BI Risk Dashboard Link]
 
 ---
 
-## Skills
-*   **Languages:** q/kdb+, Python, SQL, C++ (Basic), Bash
-*   **KDB+ Concepts:** Tickerplant Architecture, IPC, HDB/RDB, On-disk storage (splaying, partitioning, compression), Performance Tuning, User-Defined Functions, Gateways
-*   **Finance:** Market Data (Trades, Quotes), VWAP, Time-series Analysis, Backtesting Concepts
-*   **Tools:** Git, Linux/Unix, Docker, Jupyter
+## 📈 About Me
+I am a technical data analyst and engineering practitioner specializing in electronic trading technology, market data architecture, and risk pipelines. My expertise lies at the intersection of high-frequency financial database design (KDB+/Q), cloud lakehouse engineering (Databricks/Spark SQL), and business intelligence. 
+
+I excel at transforming raw platform execution logs into governed, audited corporate data assets, bridging the gap between quantitative strategy requirements and enterprise-grade tech delivery.
 
 ---
 
-## Projects
+## 🛠️ Technical Stack & Domain Expertise
+*   **Data & Cloud Infrastructure:** Databricks, Delta Lake Architecture, Apache Spark, PostgreSQL, DBFS.
+*   **Time-Series Databases:** KDB+/Q (Tickerplant, IPC, RDB/HDB layout, splayed/partitioned tables).
+*   **Languages & Querying:** Advanced SQL (CTEs, Window Functions), Python, C++ (Basic), Bash.
+*   **Business Intelligence & Modeling:** Power BI Desktop, Advanced DAX, Relational Star Schema Modeling.
+*   **BA Frameworks & Governance:** Agile/Scrum, User Acceptance Testing (UAT), Master Data Management (MDM), Product Backlog Prioritization (Jira, Linear).
 
-### 1. Real-Time Market Data Tick Plant (Core Project)
-A complete, end-to-end simulation of a financial data capture system.
-*   **Architecture:** [Insert your architecture diagram image here]
-*   **Features:** Python feed handler, tickerplant, real-time in-memory DB, partitioned historical DB, and a unified query gateway.
-*   **[Link to Repository]**
+---
 
-### 2. Algorithmic Trading Backtesting Engine (Intermediate Project)
-A q-based engine to test a moving-average crossover strategy against historical trade data.
-*   **Features:** Strategy implementation, PnL calculation, Sharpe Ratio, and Max Drawdown metrics.
-*   **[Link to Repository]**
+## 🚀 Core Trading Technology Projects
 
-### 3. Optimized Querying on Large Datasets (Advanced Project)
-A deep dive into query optimization, showcasing performance gains of over 100x on complex analytical queries.
-*   **Features:** Side-by-side comparison of naive vs. optimized queries with `\t` benchmarks. Detailed explanation of optimization techniques used.
-*   **[Link to Repository]**
+### 1. Institutional Trading Performance & Risk Analytics Pipeline 
+**Tech Stack:** Databricks Community Edition + Spark SQL + Power BI + Delta Lake
+*   **Overview:** Developed an end-to-end cloud data asset that automates the ingestion, normalization, and auditing of multi-asset trading logs (MT5/FundedNext) to calculate exposure metrics.
+*   **Data Operations:** Wrote comprehensive Spark SQL scripts to enforce schemas, resolve timezone latencies, and strip out non-execution metadata. Built validation views to handle fractional lot edge cases and zero-volume anomalies simulating corporate UAT constraints.
+*   **BI Implementation:** Designed an optimized Star Schema database model to feed a custom Power BI dashboard calculating dynamic Profit Factor, Max Drawdown, and Win Rate metrics.
+*   🔗 **[View Repository](https://github.com/Emperor111/mt5-trading-analytics-pipeline)**
+
+### 2. High-Frequency Real-Time Market Data Tick Plant 
+**Tech Stack:** KDB+/Q + Time-Series Architecture
+*   **Overview:** Built a complete, end-to-end simulation of an institutional financial data capture engine designed to process high-velocity tick logs.
+*   **Architecture:** Implemented a functional ticker plant framework linking a streaming feed handler directly to a Real-time Database (RDB) and an optimized splayed/partitioned Historical Database (HDB).
+*   **Features:** Managed live-updating financial market data tables across Positions, Trades, and Orders while optimizing real-time calculation latency.
+*   🔗 **[View Repository](https://github.com/Emperor111/kdb-learning)**
+
+### 3. Algorithmic Backtesting & Analytical Query Engine
+**Tech Stack:** Q Scripting + Quantitative Analytics
+*   **Overview:** Developed a performance-tuned execution environment within KDB to evaluate time-series datasets against mathematical trading logic.
+*   **Analytics Engine:** Authored custom functional code to process millions of rows of data, calculating Sharpe Ratios, trailing drawdowns, and side-by-side performance benchmarks.
+*   🔗 **[View Repository](https://github.com/Emperor111/QTips)**
